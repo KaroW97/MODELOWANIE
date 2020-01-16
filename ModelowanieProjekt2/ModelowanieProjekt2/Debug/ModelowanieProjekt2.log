@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+c:\users\weronika\source\repos\modelowanieprojekt2\modelowanieprojekt2\źródło.cpp(14): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ModelowanieProjekt2.vcxproj -> C:\Users\Weronika\source\repos\ModelowanieProjekt2\Debug\ModelowanieProjekt2.exe
